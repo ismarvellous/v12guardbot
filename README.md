@@ -1,1 +1,5 @@
-# v12guardbot
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
